@@ -56,6 +56,7 @@ with 5 cross-joined datasets.
 |---|---|
 | Tableau Public | Dashboard building and publishing |
 | Excel / CSV | Data preparation and dataset design |
+| SQL/Python | Data Cleaning and Exploratory Data Analysis |
 
 ---
 
