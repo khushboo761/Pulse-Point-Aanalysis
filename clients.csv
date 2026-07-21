@@ -1,0 +1,16 @@
+client_id,client_name,industry,region,contract_value,tier,onboard_year,account_manager
+CLT001,AuraMed Pharma,Pharma,West,750000,Platinum,2023,Sneha T
+CLT002,BioVista Labs,Pharma,Central,1500000,Platinum,2022,Priya S
+CLT003,CureAxis Inc,Pharma,East,2000000,Platinum,2021,Rohan M
+CLT004,DeltaRx Corp,Pharma,Central,500000,Platinum,2021,Dev P
+CLT005,EvoHealth,Pharma,Central,1500000,Gold,2022,Priya S
+CLT006,FluxPay Solutions,Fintech,South,750000,Gold,2021,Dev P
+CLT007,GreenLedger,Fintech,East,2000000,Gold,2022,Rohan M
+CLT008,HorizonBank,Fintech,East,1500000,Gold,2023,Rohan M
+CLT009,IndiPay,Fintech,East,500000,Gold,2022,Priya S
+CLT010,JetCredit,Fintech,Central,500000,Gold,2023,Rohan M
+CLT011,KartZone,E-Commerce,West,1000000,Silver,2023,Sneha T
+CLT012,LunaShop,E-Commerce,East,1000000,Silver,2020,Rohan M
+CLT013,MegaMart,E-Commerce,Central,750000,Silver,2022,Dev P
+CLT014,NexCart,E-Commerce,South,1500000,Silver,2020,Dev P
+CLT015,OmniRetail,E-Commerce,West,1500000,Silver,2022,Dev P
